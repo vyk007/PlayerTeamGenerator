@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\validators\\createplayerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\validators\\createplayerrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\entities\\playerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\entities\\playerskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\entities\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapitest\\base\\testapplicationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|solutionrelative:webapitest\\base\\testapplicationprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\app.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\app.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\filters\\bearertokenrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\filters\\bearertokenrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\requests\\createplayerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\requests\\createplayerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapitest\\createplayertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|solutionrelative:webapitest\\createplayertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapitest\\updateplayertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|solutionrelative:webapitest\\updateplayertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapitest\\listplayertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|solutionrelative:webapitest\\listplayertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapitest\\processteamtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|solutionrelative:webapitest\\processteamtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapitest\\deleteplayertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|solutionrelative:webapitest\\deleteplayertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapitest\\basetestwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|solutionrelative:webapitest\\basetestwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapitest\\base\\teamprocessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|solutionrelative:webapitest\\base\\teamprocessviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapitest\\base\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5D9A7B-E02B-4B98-BF3F-6F325950238D}|WebApiTest\\WebApiTest.csproj|solutionrelative:webapitest\\base\\playerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\validators\\playerskilldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\validators\\playerskilldtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\validators\\teamrequirementrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\validators\\teamrequirementrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\requests\\playerskillrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\requests\\playerskillrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\enums\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\enums\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\enums\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\enums\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|c:\\users\\vyshak\\source\\repos\\playerteamgen\\vyshak-madhusudan-amu7-player-team-generator-web-api-hldw\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{491AA2A1-F0FE-467A-9C60-11F929F13991}|WebApi\\WebApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApi\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApi\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T04:06:00.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.settings.json",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\app.settings.json",
+              "RelativeDocumentMoniker": "WebApi\\app.settings.json",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\app.settings.json",
+              "RelativeToolTip": "WebApi\\app.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T14:39:08.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:18:21.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Controllers\\PlayerController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Controllers\\PlayerController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PlayerController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAAALoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T19:43:12.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T19:23:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreatePlayerRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Validators\\CreatePlayerRequestValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Validators\\CreatePlayerRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Validators\\CreatePlayerRequestValidator.cs",
+              "RelativeToolTip": "WebApi\\Validators\\CreatePlayerRequestValidator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T05:31:53.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestApplicationProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\Base\\TestApplicationProvider.cs",
+              "RelativeDocumentMoniker": "WebApiTest\\Base\\TestApplicationProvider.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\Base\\TestApplicationProvider.cs",
+              "RelativeToolTip": "WebApiTest\\Base\\TestApplicationProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:32:50.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Entities\\Player.cs",
+              "RelativeDocumentMoniker": "WebApi\\Entities\\Player.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Entities\\Player.cs",
+              "RelativeToolTip": "WebApi\\Entities\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:28:04.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Entities\\PlayerSkill.cs",
+              "RelativeDocumentMoniker": "WebApi\\Entities\\PlayerSkill.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Entities\\PlayerSkill.cs",
+              "RelativeToolTip": "WebApi\\Entities\\PlayerSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:28:14.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BearerTokenRequiredAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Filters\\BearerTokenRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "WebApi\\Filters\\BearerTokenRequiredAttribute.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Filters\\BearerTokenRequiredAttribute.cs",
+              "RelativeToolTip": "WebApi\\Filters\\BearerTokenRequiredAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:07:14.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProcessTeamTest.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\ProcessTeamTest.cs",
+              "RelativeDocumentMoniker": "WebApiTest\\ProcessTeamTest.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\ProcessTeamTest.cs",
+              "RelativeToolTip": "WebApiTest\\ProcessTeamTest.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAgwNoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:59:09.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePlayerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Requests\\CreatePlayerRequest.cs",
+              "RelativeDocumentMoniker": "WebApi\\Requests\\CreatePlayerRequest.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Requests\\CreatePlayerRequest.cs",
+              "RelativeToolTip": "WebApi\\Requests\\CreatePlayerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T16:28:31.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePlayerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\CreatePlayerTest.cs",
+              "RelativeDocumentMoniker": "WebApiTest\\CreatePlayerTest.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\CreatePlayerTest.cs",
+              "RelativeToolTip": "WebApiTest\\CreatePlayerTest.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAgwL8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:28:27.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeletePlayerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\DeletePlayerTest.cs",
+              "RelativeDocumentMoniker": "WebApiTest\\DeletePlayerTest.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\DeletePlayerTest.cs",
+              "RelativeToolTip": "WebApiTest\\DeletePlayerTest.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:58:27.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListPlayerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\ListPlayerTest.cs",
+              "RelativeDocumentMoniker": "WebApiTest\\ListPlayerTest.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\ListPlayerTest.cs",
+              "RelativeToolTip": "WebApiTest\\ListPlayerTest.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwFUAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:58:41.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdatePlayerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\UpdatePlayerTest.cs",
+              "RelativeDocumentMoniker": "WebApiTest\\UpdatePlayerTest.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\UpdatePlayerTest.cs",
+              "RelativeToolTip": "WebApiTest\\UpdatePlayerTest.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T12:28:29.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseTestWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\BaseTestWrapper.cs",
+              "RelativeDocumentMoniker": "WebApiTest\\BaseTestWrapper.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\BaseTestWrapper.cs",
+              "RelativeToolTip": "WebApiTest\\BaseTestWrapper.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAqwJ8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:23:27.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamProcessViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\Base\\TeamProcessViewModel.cs",
+              "RelativeDocumentMoniker": "WebApiTest\\Base\\TeamProcessViewModel.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\Base\\TeamProcessViewModel.cs",
+              "RelativeToolTip": "WebApiTest\\Base\\TeamProcessViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:32:49.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayerSkillDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Validators\\PlayerSkillDtoValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Validators\\PlayerSkillDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Validators\\PlayerSkillDtoValidator.cs",
+              "RelativeToolTip": "WebApi\\Validators\\PlayerSkillDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T08:36:58.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\Base\\PlayerViewModel.cs",
+              "RelativeDocumentMoniker": "WebApiTest\\Base\\PlayerViewModel.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApiTest\\Base\\PlayerViewModel.cs",
+              "RelativeToolTip": "WebApiTest\\Base\\PlayerViewModel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:20:35.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TeamRequirementRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Validators\\TeamRequirementRequestValidator.cs",
+              "RelativeDocumentMoniker": "WebApi\\Validators\\TeamRequirementRequestValidator.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Validators\\TeamRequirementRequestValidator.cs",
+              "RelativeToolTip": "WebApi\\Validators\\TeamRequirementRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:55:57.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Enums\\Skill.cs",
+              "RelativeDocumentMoniker": "WebApi\\Enums\\Skill.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Enums\\Skill.cs",
+              "RelativeToolTip": "WebApi\\Enums\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:41:42.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Enums\\Position.cs",
+              "RelativeDocumentMoniker": "WebApi\\Enums\\Position.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Enums\\Position.cs",
+              "RelativeToolTip": "WebApi\\Enums\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T20:41:13.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayerSkillRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Requests\\PlayerSkillRequest.cs",
+              "RelativeDocumentMoniker": "WebApi\\Requests\\PlayerSkillRequest.cs",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Requests\\PlayerSkillRequest.cs",
+              "RelativeToolTip": "WebApi\\Requests\\PlayerSkillRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T17:08:49.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Vyshak\\source\\repos\\PlayerTeamGen\\vyshak-madhusudan-AMu7-player-team-generator-web-api-hLdW\\WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T19:45:04.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
