@@ -10,10 +10,10 @@ namespace WebApiTest.Base
     public class TeamProcessViewModel
     {
         [Required]
-        public string Position { get; set; }
+        public string Position { get; set; } = string.Empty;
         [Required]
-        public string MainSkill { get; set; }
+        public string MainSkill { get; set; } = string.Empty;
         [Required]
-        public string NumberOfPlayers { get; set; }
+        public string NumberOfPlayers { get; set; } = string.Empty;
     }
 }

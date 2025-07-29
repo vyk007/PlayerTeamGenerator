@@ -11,15 +11,15 @@ namespace WebApiTest.Base
     public class PlayerViewModel
     {
         [Required]
-        public string Name { get; set; }
+        public string Name { get; set; } = string.Empty;
         [Required]
-        public string Position { get; set; }
+        public string Position { get; set; } = string.Empty;
         public List<PlayerSkillViewModel> PlayerSkills { get; set; }
     }
 
     public class PlayerSkillViewModel
     {
-        public string Skill { get; set; }
+        public string Skill { get; set; } = string.Empty;
         public int Value { get; set; }
     }
 }
